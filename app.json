@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "53e196ef-95ff-4ef7-ae6e-931cac377c05"
+      }
+    },
+    "owner": "harmathzs"
   }
 }
